@@ -28,7 +28,7 @@ A simple, fast, and responsive note-taking web app. Create, edit, and delete not
 
    ```sh
    git clone https://github.com/your-username/note-taking-react.git
-   cd note-taking-app
+   cd note-taking-react
    ```
 
 2. **Install dependencies:**
